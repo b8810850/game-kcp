@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <conf>
+	<port>118.190.43.109:888</port>
+	<freq>200</freq><!-- 毫秒 -->
+</conf>
